@@ -1,0 +1,7 @@
+C:\Users\enzo.glanzi\source\repos\calculaimctry\calculaimctry\bin\Debug\calculaimctry.exe.config
+C:\Users\enzo.glanzi\source\repos\calculaimctry\calculaimctry\bin\Debug\calculaimctry.exe
+C:\Users\enzo.glanzi\source\repos\calculaimctry\calculaimctry\bin\Debug\calculaimctry.pdb
+C:\Users\enzo.glanzi\source\repos\calculaimctry\calculaimctry\obj\Debug\calculaimctry.csproj.AssemblyReference.cache
+C:\Users\enzo.glanzi\source\repos\calculaimctry\calculaimctry\obj\Debug\calculaimctry.csproj.CoreCompileInputs.cache
+C:\Users\enzo.glanzi\source\repos\calculaimctry\calculaimctry\obj\Debug\calculaimctry.exe
+C:\Users\enzo.glanzi\source\repos\calculaimctry\calculaimctry\obj\Debug\calculaimctry.pdb
